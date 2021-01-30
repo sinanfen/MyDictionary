@@ -1,0 +1,2 @@
+# MyDictionary
+* Generic sınıfların kullanımı
