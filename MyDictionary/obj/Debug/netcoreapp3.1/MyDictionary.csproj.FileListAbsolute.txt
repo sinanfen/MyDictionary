@@ -1,0 +1,13 @@
+C:\Users\W10\Desktop\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfo.cs
+C:\Users\W10\Desktop\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.exe
+C:\Users\W10\Desktop\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.deps.json
+C:\Users\W10\Desktop\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.json
+C:\Users\W10\Desktop\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.dev.json
+C:\Users\W10\Desktop\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.dll
+C:\Users\W10\Desktop\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.pdb
+C:\Users\W10\Desktop\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.dll
+C:\Users\W10\Desktop\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.pdb
+C:\Users\W10\Desktop\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.genruntimeconfig.cache
